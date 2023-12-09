@@ -1,4 +1,3 @@
-This is [me](https://twitter.com/AnconaEsselmann)
 
 
 <!---
