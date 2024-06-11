@@ -1,4 +1,4 @@
-
+Me on [medium](https://medium.com/@dudeOnRock) 
 
 <!---
 anconaesselmann/anconaesselmann is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
