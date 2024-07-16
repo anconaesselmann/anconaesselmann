@@ -51,7 +51,7 @@ Developer tool - Manage Swift Packages using the command line
 
 ##  My writing
 
-- [Medium](https://medium.com/@dudeOnRock) 
+- [Medium](https://medium.com/@DudeOnSwift) 
 
 <!---
 anconaesselmann/anconaesselmann is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
