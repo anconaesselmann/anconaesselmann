@@ -18,6 +18,21 @@ A simple two player game
 
 ## 🖥️ In the macOS app store
 
+### <img src="https://github.com/user-attachments/assets/63232f28-f3bf-4b22-8b62-2827461fd54c" width="32"/> [Audiosaic](https://apps.apple.com/us/app/audiosaic/id6475738594)
+
+Audiobook library and player
+
+Play and organize your DRM-free audio content
+- Maintain multiple content catalogues (e.g. each of your children can maintain their own audio collection)
+- Organize content using folder-like nested groups
+- Automatically sync content and progress to other devices with iCloud
+    - Import content and edit metadata with Audiosaic for the Mac and listen with the Audiosaic iPhone app
+    - Share audio files on the go using the iPhone app
+- Join audio files
+- Batch-Edit metadata
+- Detailed playback history
+- Create bookmarks
+
 ### <img src="https://github.com/user-attachments/assets/35373d4c-a528-48ec-b101-f81a5373f97d" width="32"/> [AppRover](https://apps.apple.com/ly/app/app-rover/id6472757797)
 
 Developer tool 
